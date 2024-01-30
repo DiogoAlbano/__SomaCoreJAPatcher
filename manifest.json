@@ -1,0 +1,14 @@
+{
+  "Name": "> [JA] Soma Core Data",
+  "Author": "somaraezel",
+  "Version": "1.0.0",
+  "Description": "Part Of Soma Core.",
+  "UniqueID": "somaraezel.JASomaCoreData",
+  "UpdateKeys": [
+    "Nexus: ???"
+  ],
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.JsonAssets"
+  }
+  //"Dependencies": [{"UniqueID": "FlashShifter.StardewValleyExpandedCP",      "IsRequired": false}]
+}

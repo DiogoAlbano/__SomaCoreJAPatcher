@@ -1,0 +1,15 @@
+{
+  "Name": "Iridium Components",
+  "Description": "Used to build all kinds of things.",
+  "NameLocalization": {
+    "pt": "Componentes de Irídio"
+  },
+  "DescriptionLocalization": {
+    "pt": "Usado para construir todo o tipo de coisa."
+  },
+  "Price": 500,
+  "CanSell": false,
+  "Category": "Metal",
+  "Edibility": -300,
+  "CanPurchase": false
+}

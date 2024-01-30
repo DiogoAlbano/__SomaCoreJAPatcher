@@ -1,0 +1,15 @@
+{
+  "Name": "Adhesive",
+  "Description": "Used to build all kinds of things.",
+  "NameLocalization": {
+    "pt": "Adesivo"
+  },
+  "DescriptionLocalization": {
+    "pt": "Usado para construir todo o tipo de coisa."
+  },
+  "Price": 500,
+  "CanSell": false,
+  "Category": "Metal",
+  "Edibility": -300,
+  "CanPurchase": false
+}
