@@ -23,57 +23,24 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="manifest.json" />
-    <Content Include="Objects\Adhesive\object.json" />
-    <Content Include="Objects\Adhesive\object.png" />
-    <Content Include="Objects\Clam Powder\object.json" />
-    <Content Include="Objects\Clam Powder\object.png" />
-    <Content Include="Objects\Conductive Liquid\object.json" />
-    <Content Include="Objects\Conductive Liquid\object.png" />
     <Content Include="Objects\Copper Components\object.json" />
     <Content Include="Objects\Copper Components\object.png" />
-    <Content Include="Objects\Coral Extract\object.json" />
-    <Content Include="Objects\Coral Extract\object.png" />
-    <Content Include="Objects\Fish Extract\object.json" />
-    <Content Include="Objects\Fish Extract\object.png" />
+    <Content Include="Objects\Crafting Materials\object.json" />
+    <Content Include="Objects\Crafting Materials\object.png" />
     <Content Include="Objects\Gold Components\object.json" />
     <Content Include="Objects\Gold Components\object.png" />
-    <Content Include="Objects\Green Extract\object.json" />
-    <Content Include="Objects\Green Extract\object.png" />
-    <Content Include="Objects\Hardwood Components\object.json" />
-    <Content Include="Objects\Hardwood Components\object.png" />
-    <Content Include="Objects\Humidifying Mixture\object.json" />
-    <Content Include="Objects\Humidifying Mixture\object.png" />
     <Content Include="Objects\Iridium Components\object.json" />
     <Content Include="Objects\Iridium Components\object.png" />
-    <Content Include="Objects\Preservative Powder\object.json" />
-    <Content Include="Objects\Preservative Powder\object.png" />
-    <Content Include="Objects\Slime Oil\object.json" />
-    <Content Include="Objects\Slime Oil\object.png" />
     <Content Include="Objects\Steel Components\object.json" />
     <Content Include="Objects\Steel Components\object.png" />
-    <Content Include="Objects\Stone Components\object.json" />
-    <Content Include="Objects\Stone Components\object.png" />
-    <Content Include="Objects\Wood Components\object.json" />
-    <Content Include="Objects\Wood Components\object.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Objects\" />
-    <Folder Include="Objects\Adhesive\" />
-    <Folder Include="Objects\Clam Powder\" />
-    <Folder Include="Objects\Conductive Liquid\" />
     <Folder Include="Objects\Copper Components\" />
-    <Folder Include="Objects\Coral Extract\" />
-    <Folder Include="Objects\Fish Extract\" />
+    <Folder Include="Objects\Crafting Materials\" />
     <Folder Include="Objects\Gold Components\" />
-    <Folder Include="Objects\Green Extract\" />
-    <Folder Include="Objects\Hardwood Components\" />
-    <Folder Include="Objects\Humidifying Mixture\" />
     <Folder Include="Objects\Iridium Components\" />
-    <Folder Include="Objects\Preservative Powder\" />
-    <Folder Include="Objects\Slime Oil\" />
     <Folder Include="Objects\Steel Components\" />
-    <Folder Include="Objects\Stone Components\" />
-    <Folder Include="Objects\Wood Components\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
