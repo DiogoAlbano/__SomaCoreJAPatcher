@@ -1,0 +1,15 @@
+{
+  "Name": "Diagram - Femur",
+  "Description": "Used to build all kinds of things.",
+  "NameLocalization": {
+    "pt": "Materiais de Fabricação"
+  },
+  "DescriptionLocalization": {
+    "pt": "Usado para construir todo o tipo de coisa."
+  },
+  "Price": 5,
+  "CanSell": false,
+  "Category": "Metal",
+  "Edibility": -300,
+  "CanPurchase": false
+}
